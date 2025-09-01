@@ -14,10 +14,7 @@ An Amazon-style transactional schema with sample data and analytics queries. Inc
 ---
 
 ## ER Diagram
-![ER Diagram](https://github.com/<user>/<repo>/blob/main/<path-to-image>.png?raw=true)
-
-
-> Edit visually with [`assets/ecommerce_erd.drawio`](assets/ecommerce_erd.drawio) in diagrams.net.
+![ER Diagram](https://github.com/IshanH9/ecommerce-sql-analysis/blob/main/ecommerce_erd.drawio.drawio.png)
 
 ---
 
